@@ -1,0 +1,51 @@
+/*@import url("reset.css");
+*/
+@font-face { /* use this somewhere on the page */
+      font-family: "Gang of Three";
+      src: url('go3v2.ttf'),
+      url('go3v2.eot'); /* IE */
+}
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+p {
+  padding: 10px;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+.header {
+    float: left;
+    height: 250px;
+    width: 1000px;
+    text-align:center;
+}
+.text-nav {
+    /*float: left;*/
+    margin: auto; /*center*/
+    height: 40px;
+    width: 1000px;
+    text-align:center;
+    font-family: "Gang of Three";
+}
+.section {
+    background-color:#FFF0FF;
+    width: 780px;
+    float:left;
+}
+.button-nav {
+    width: 220px;
+    float: left;
+}
+.footer {
+    height: 140px;
+    width: 1000px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
+    clear:both;
+}

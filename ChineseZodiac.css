@@ -1,0 +1,79 @@
+BODY
+{
+  COLOR: #101010;
+  BACKGROUND-COLOR: #E0E0E0;
+  FONT-FAMILY: Verdana, Arial;
+  TEXT-TRANSFORM: none;
+  FONT-STYLE: normal;
+  FONT-VARIANT: normal;
+  TEXT-DECORATION: none
+  TEXT-ALIGN: left;
+}
+
+H1
+{
+  BORDER: #101010 1px solid;
+  FONT-WEIGHT: bolder;
+  TEXT-ALIGN: center;
+}
+
+DIV.header
+{
+  BORDER: #101010 1px solid;
+  PADDING: 2px;
+  FONT-WEIGHT: bolder;
+  FONT-SIZE: x-large;
+  TEXT-ALIGN: center;
+  clear:left;
+}
+
+DIV.footer
+{
+  FONT-SIZE: small;
+  TEXT-ALIGN: center;
+  clear:left;
+}
+
+DIV.nav_text
+{
+  FONT-SIZE: small;
+  TEXT-ALIGN: center;
+  clear:left;
+}
+
+DIV.midblock
+{
+  clear:left;
+}
+
+DIV.nav_buttons
+{
+  FONT-SIZE: small;
+  TEXT-ALIGN: left;
+  float:left;
+  width: 200px;
+}
+
+DIV.dynamic_content
+{
+  FONT-SIZE: large;
+  TEXT-ALIGN: left;
+  margin-left: 200px;
+}
+
+TABLE
+{
+  BORDER: #101010 1px solid;
+  PADDING: 2px;
+  FONT-WEIGHT: bolder;
+  FONT-SIZE: x-large;
+  TEXT-ALIGN: center;
+  width:100%;
+}
+
+SPAN.code
+{
+   FONT-FAMILY: monospace; 
+   font-weight: bolder;
+}
+

@@ -1,0 +1,17 @@
+0	A bird does not sing because it has an answer. It sings because it has a song.	0
+1	A bit of fragrance clings to the hand that gives flowers.	0
+2	A book holds a house of gold.	0
+3	A book is like a garden carried in the pocket.	0
+4	A book tightly shut is but a block of paper.	0
+5	A child's life is like a piece of paper on which every person leaves a mark.	0
+6	A diamond with a flaw is worth more than a pebble without imperfections.	0
+7	A fool judges people by the presents they give him.	0
+8	A gem is not polished without rubbing, nor a man perfected without trials.	0
+9	A nation's treasure is in its scholars.	0
+10	Be the first to the field and the last to the couch.	0
+11	Deep doubts, deep wisdom; small doubts, little wisdom.	0
+12	Dig the well before you are thirsty.	0
+13	Do good, reap good; do evil, reap evil.	0
+14	Do not employ handsome servants.	0
+15	Do not fear going forward slowly; fear only to stand still.	0
+16	Do not remove a fly from your friend's forehead with a hatchet.	0
